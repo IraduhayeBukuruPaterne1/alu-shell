@@ -22,4 +22,3 @@ case "$1" in
 	#making sure to handle no parameter
 	echo "Usage: manage_my_process {start|stop|restart}"
 	exit 1
-esac
